@@ -10,3 +10,5 @@ To edit things like brighhtness,blur,invert etc for images use the filter tag in
 for more on transitions https://www.w3schools.com/css/css3_transitions.asp
 
 for more on animations https://www.w3schools.com/css/css3_animations.asp
+
+for the transform in animationshttps://www.w3schools.com/css/css3_2dtransforms.asp

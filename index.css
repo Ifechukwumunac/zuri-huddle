@@ -60,12 +60,11 @@ button{
    box-shadow: 0 3px 5px 2px #dee9ed ;
    color: #05232b;
    transition: all 1s linear 0s;
+   animation: bounce .3s infinite alternate;
 }
-#try:focus{
-   background-color: green;
-   color: white;
-   text-decoration-line: blink;
-}
+@keyframes bounce {
+    to { transform: scale(1.2); }
+  }
 .getstarted, #getstarted{
     color: #ffffff;
     background-color: hsl(322, 100%, 66%);
