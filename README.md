@@ -2,6 +2,7 @@
 
 
 Developer notes 
+
 when making responsive websites dont forget to set -webkit-tap-highlight-color: transparent; for clickable items to remove the blue highlight on tap.
 
 To edit things like brighhtness,blur,invert etc for images use the filter tag in your css. They work just like snapchat filters.
